@@ -1,0 +1,22 @@
+{
+  "name": "photoshare",
+  "version": "1.0.0",
+  "description": "Photo Sharing App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birkanTonkal/PhotoShare-App.git"
+  },
+  "author": "Kamil Birkan Tonkal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birkanTonkal/PhotoShare-App/issues"
+  },
+  "homepage": "https://github.com/birkanTonkal/PhotoShare-App#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
